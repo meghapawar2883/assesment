@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LLM Question Answering Application 🤖
 
 This project is a **Streamlit-based application** that uses **Large Language Models (LLMs)** for document-based question answering. It leverages the **LangChain** framework to load, process, and query documents, employing embeddings and vector stores for efficient information retrieval.
@@ -92,3 +93,6 @@ Make sure you download model from ollama initially
 4.**🧠 Advanced Models**
 
   Add OpenAI or HuggingFace options alongside Ollama for cloud/local hybrid setups.
+=======
+# assesment
+>>>>>>> 81c351687ad482a3703a36dd62aca9dd717e0217
